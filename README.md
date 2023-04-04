@@ -1,1 +1,1 @@
-This is the READMe
+Readme file initialized
